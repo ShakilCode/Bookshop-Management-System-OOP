@@ -1,7 +1,7 @@
 
-# OOP Book Management System
+# Desktop Application (Java) - Book Management System 
 
-The Object-Oriented Programming (OOP) Book Management System is a robust software application that employs OOP principles to provide a scalable and efficient solution for managing books. The system caters to both managers and cashiers, offering distinct functionalities to meet their specific roles within the book management process.
+The java Object-Oriented Programming (OOP) Book Management System is a robust software application that employs OOP principles to provide a scalable and efficient solution for managing books. The system caters to both managers and cashiers, offering distinct functionalities to meet their specific roles within the book management process.
 
 ## Manager Functions
 
